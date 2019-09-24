@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe.config
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Form1.resources
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.Properties.Resources.resources
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.exe
+C:\Users\admin\Desktop\Программы\SimplexMethod\SimplexMethod\obj\Debug\SimplexMethod.pdb
